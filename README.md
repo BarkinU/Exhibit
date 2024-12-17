@@ -7,7 +7,7 @@ In this space, users can participate in various conferences, talks, seminars, pr
 Additionally, video and audio communication is possible if mutually approved. The project is designed to operate in a WebGL environment.
 
 ---
- ## [Click](https://drive.google.com/file/d/1bKCa27hdfdQNG6ipXoNEBwSMo_M3XcH6/view?usp=sharing) to see Trailer or see the GIF version below **&darr;**
+ ## [Click](https://drive.google.com/file/d/16c2S_XyPrVT_k1s4rgAN0uF78-YenzQy/view?usp=drive_link) to see Trailer or see the GIF version below **&darr;**
 
 ![WhatsApp Video 2024-12-12 at 23-VEED (16)](https://github.com/user-attachments/assets/016909ac-2d0d-407d-bcd1-5c1d74185f7f)
 
